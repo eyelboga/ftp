@@ -1,0 +1,11 @@
+open ftp://ftpusername:ftppassword@ftpserveripaddress/targetfolder1/
+put C:\wamp\www\sourcefolder\*
+
+open ftp://ftpusername:ftppassword@ftpserveripaddress/targetfolder2/
+put C:\wamp\www\sourcefolder\*
+
+open ftp://ftpusername:ftppassword@ftpserveripaddress/targetfolder3/
+put C:\wamp\www\sourcefolder\*
+
+open ftp://ftpusername:ftppassword@ftpserveripaddress/targetfolder4/
+put C:\wamp\www\sourcefolder\*
