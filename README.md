@@ -1,4 +1,4 @@
-# upload a local folder contents to different folders in ftp server using WinSCP
+# WinSCP script for uploading local folder contents to different folders in a ftp server
 
 Running a WinSCP script to upload local folder contents to different folders in ftp server
 
